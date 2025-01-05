@@ -37,7 +37,7 @@ This is a simple frontend implementation of an Employee Management System built 
 
 - **React**: JavaScript library for building user interfaces.
 - **Local Storage**: For storing tasks and user data temporarily.
-- **TyeScript**: For styling the frontend.
+- **TailwindCSS**: For styling the frontend.
 
 ## Future Enhancements
 
