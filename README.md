@@ -41,7 +41,7 @@ This is a simple frontend implementation of an Employee Management System built 
 
 ## Future Enhancements
 
-- Full-stack implementation with a backend (Node.js, Express, MongoDB).
+- Full-stack implementation with a backend.
 - Authentication and authorization.
 - Real-time task updates using WebSockets.
 - User management (Admin can add/remove employees).
